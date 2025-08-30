@@ -1,4 +1,4 @@
-# taller
+# Taller
 
 ## INTEGRANTES
 - Juan David Veloza Chaves 1019903241
